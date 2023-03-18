@@ -1,16 +1,27 @@
-### Hi there 👋
+# Joe Shenouda - Seasoned Cybersecurity Expert
 
-<!--
-**joe-shenouda/joe-shenouda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🛠 Background in engineering, consulting, and research
+- 🌐 Experience with leading companies, such as Verizon and Accenture
+- 🔐 Specializes in operational cybersecurity for large organizations
+- 🌱 Passionate about mentoring and training the next generation of cybersecurity specialists
+- 📚 Utilizes industry standards like ISO, NIST, and CIS Controls for best practices
 
-Here are some ideas to get you started:
+## Accolades 🏆
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Named one of the 50 most talented young leaders in the Netherlands by MT Magazine
+- Received the Goudhaantje Award in 2019
+
+## Activities 📈
+
+- Actively participates in OSINT tasks for continuous learning and professional growth
+
+## Geography 🌍
+
+Benelux, Middle-East & Nordics (Belgium, Netherlands, Luxembourg, Denmark, Norway, Sweden, Finland, Egypt, Monaco, Vatican City)
+
+## GitHub Portfolio 🔗
+
+[https://github.com/joe-shenouda/](https://github.com/joe-shenouda/)
+
+✨ Active security clearance ✨
+
