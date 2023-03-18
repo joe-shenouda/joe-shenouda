@@ -1,5 +1,7 @@
 # Joe Shenouda - Seasoned Cybersecurity Expert
 
+[https://www.linkedin.com/in/josephshenouda/](LinkedIn)
+
 - 🛠 Background in engineering, consulting, and research
 - 🌐 Experience with leading companies, such as Verizon and Accenture
 - 🔐 Specializes in operational cybersecurity for large organizations
