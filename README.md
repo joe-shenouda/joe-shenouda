@@ -1,6 +1,6 @@
 # Joe Shenouda - Seasoned Cybersecurity Expert
 
-[LinkedIn](https://www.linkedin.com/in/josephshenouda/) 🌍 [Twitter](https://twitter.com/JoeyShenouda)
+[LinkedIn](https://www.linkedin.com/in/josephshenouda/) 🌍 [Twitter](https://twitter.com/JoeyShenouda) 🌍 [Cybersecurity News](https://www.cyber-consult.org)
 
 
 - 🛠 Background in engineering, consulting, and research
