@@ -1,4 +1,4 @@
-# Joe Shenouda - Seasoned Cybersecurity Expert
+# Joe Shenouda - Cybersecurity Specialist
 
 [LinkedIn](https://www.linkedin.com/in/josephshenouda/) 🌍 [Twitter](https://twitter.com/JoeyShenouda) 🌍 [Cybersecurity News](https://www.cyber-consult.org)
 
