@@ -21,13 +21,6 @@ A results-oriented and strategic CISO with extensive experience in leading compl
 - 🤝 **Leading Global Teams:** Passionate about mentoring and developing the next generation of security talent, having led international teams of up to 80 security experts.
 - 🌍 **Mission-Critical Environments:** Adept at navigating high-stakes environments, from advising NATO and the Dutch Judiciary on information security to leading cybersecurity projects for the Defense Cyber Command.
 
-## 🚀 Career Highlights
-
-- **CISO Leadership:** Architected the complete cybersecurity strategy for **Hunkemöller**, covering 900+ stores in 12 countries, and prepared the organization for NIS2 compliance.
-- **Global Team Command:** As Associate Director at **Accenture**, led a global team of 80 security experts, driving strategic development and performance. As Principal Cyber Analyst at **Verizon**, led a team of 25 Senior SOC Analysts.
-- **Government & Defense:** Currently serving as a **Lieutenant (Reservist) in the Defense Cyber Command (DCC)**, where I conduct OSINT missions and contribute to the protection of national interests.
-- **Industry Recognition:** Honored as one of the 50 most talented young leaders in the Netherlands (MT Magazine) and received the Goudhaantje Award in 2019.
-
 ## 🛡️ Core Competencies
 
 | Strategy & Leadership | Technical & Operational |
@@ -39,5 +32,3 @@ A results-oriented and strategic CISO with extensive experience in leading compl
 | Stakeholder Management | SOC & SIEM Operations |
 
 ---
-
-✨ **Active Security Clearance** ✨
