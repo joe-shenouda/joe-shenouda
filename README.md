@@ -1,5 +1,5 @@
 # Joe Shenouda
-### Cybersecurity Leader | CISO | Strategist | Military Reservist
+### Cybersecurity Leader | CISO | Strategist
 
 <p align="left">
   <a href="https://www.linkedin.com/in/josephshenouda/" target="_blank">
